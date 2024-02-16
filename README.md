@@ -37,5 +37,5 @@ Como Usar
 
 ## 🖼️ Tela Inicial : 
 
-![image](https://github.com/betafontes/personal-portfolio/assets/70981960/9d008f19-e224-486e-a516-d058ceabec57)
+![image]([https://github.com/betafontes/personal-portfolio/assets/70981960/9d008f19-e224-486e-a516-d058ceabec57](https://github.com/grazygarcia/aluguel-jogos/blob/main/img/tela_inicial.png)https://github.com/grazygarcia/aluguel-jogos/blob/main/img/tela_inicial.png)
 
